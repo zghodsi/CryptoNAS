@@ -1,0 +1,4 @@
+outputs*
+outputs/*
+*.swp
+*.pyc
